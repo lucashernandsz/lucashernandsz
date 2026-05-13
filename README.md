@@ -1,8 +1,9 @@
-<h1 align="center">Lucas Hernandez</h1>
+<h1>Lucas Hernandez</h1>
 
 <p align="center">
-  Sistemas de Informação · Unicamp &nbsp;|&nbsp; Campinas, SP 🇧🇷<br/>
-  Foco em <strong>Machine Learning</strong>, <strong>Data Science</strong> e <strong>Engenharia de Dados</strong>
+  Estudante de Sistemas de Informação na Unicamp com foco em <strong>Machine Learning</strong>, <strong>Data Science</strong> e <strong>Engenharia de Dados</strong>.<br/>
+  Desenvolvo pipelines de dados, processos ETL e modelos preditivos — do problema ao resultado.<br/>
+  Aberto a estágios em <strong>AI/ML</strong> e <strong>Engenharia de Dados</strong>.
 </p>
 
 <p align="center">
@@ -18,12 +19,12 @@
 
 ### 🗂️ Projetos
 
-| Projeto | Stack | Destaque |
-|---|---|---|
-| [🔮 Personality Prediction](https://github.com/lucashernandsz) | scikit-learn · Pandas | 96,79% acurácia (CV) |
-| [₿ Bitcoin Pipeline](https://github.com/lucashernandsz) | Airflow · PostgreSQL · Power BI | ETL automatizado |
-| [😴 Sleep Quality](https://github.com/lucashernandsz) | scikit-learn · Pandas | Random Forest |
-| [🎓 TCC — NLP](https://github.com/lucashernandsz) | PyTorch · LLMs | em andamento |
+| Projeto | Descrição |
+|---|---|
+| [🔮 Personality Prediction](https://github.com/lucashernandsz) | Pipeline completo de classificação binária: EDA com Spearman, `KNNImputer` por classe para evitar viés, `ColumnTransformer + Pipeline` e `RandomizedSearchCV`. **96,79% de acurácia (CV 5-fold).** |
+| [₿ Bitcoin Pipeline](https://github.com/lucashernandsz) | ETL de criptomoedas com ingestão via API, armazenamento em PostgreSQL, orquestração com Apache Airflow e dashboard analítico em Power BI. |
+| [😴 Sleep Quality](https://github.com/lucashernandsz) | Análise exploratória com Matplotlib/Seaborn, feature engineering com Pandas e modelo Random Forest avaliado por RMSE e R². |
+| [🎓 TCC — NLP em Vestibulares](https://github.com/lucashernandsz) | Aplicação de redes neurais e prompt engineering para identificar padrões em questões de provas. *(em andamento)* |
 
 ---
 
@@ -36,12 +37,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucashernandsz&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashernandsz&layout=compact&theme=default&hide_border=true"/>
-</p>
