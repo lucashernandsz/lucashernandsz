@@ -1,8 +1,8 @@
 <h1>Lucas Hernandez</h1>
 
-<p align="center">
+<p>
   Estudante de Sistemas de Informação na Unicamp com foco em <strong>Machine Learning</strong>, <strong>Data Science</strong> e <strong>Engenharia de Dados</strong>.<br/>
-  Desenvolvo pipelines de dados, processos ETL e modelos preditivos — do problema ao resultado.<br/>
+  Desenvolvo pipelines de dados, processos ETL e modelos preditivos.<br/>
   Aberto a estágios em <strong>AI/ML</strong> e <strong>Engenharia de Dados</strong>.
 </p>
 
@@ -24,7 +24,7 @@
 | [🔮 Personality Prediction](https://github.com/lucashernandsz) | Pipeline completo de classificação binária: EDA com Spearman, `KNNImputer` por classe para evitar viés, `ColumnTransformer + Pipeline` e `RandomizedSearchCV`. **96,79% de acurácia (CV 5-fold).** |
 | [₿ Bitcoin Pipeline](https://github.com/lucashernandsz) | ETL de criptomoedas com ingestão via API, armazenamento em PostgreSQL, orquestração com Apache Airflow e dashboard analítico em Power BI. |
 | [😴 Sleep Quality](https://github.com/lucashernandsz) | Análise exploratória com Matplotlib/Seaborn, feature engineering com Pandas e modelo Random Forest avaliado por RMSE e R². |
-| [🎓 TCC — NLP em Vestibulares](https://github.com/lucashernandsz) | Aplicação de redes neurais e prompt engineering para identificar padrões em questões de provas. *(em andamento)* |
+| [🎓 TCC — NLP em Vestibulares](https://github.com/lucashernandsz) | Aplicação de RAG e prompt engineering para identificar padrões em questões de provas. *(em andamento)* |
 
 ---
 
