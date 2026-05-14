@@ -21,12 +21,12 @@
 
 | Projeto | Descrição |
 |---|---|
-| [🔮 Personality Prediction]([https://github.com/lucashernandsz](https://github.com/lucashernandsz/extroverts_and_introverts)) | Pipeline completo de classificação binária: EDA com Spearman, `KNNImputer` por classe para evitar viés, `ColumnTransformer + Pipeline` e `RandomizedSearchCV`. **96,79% de acurácia (CV 5-fold).** |
-| [₿ Bitcoin Pipeline]([https://github.com/lucashernandsz](https://github.com/lucashernandsz/btc-oracle)) | ETL de criptomoedas com ingestão via API, armazenamento em PostgreSQL, orquestração com Apache Airflow e dashboard analítico em Power BI. |
-| [😴 Sleep Quality]([https://github.com/lucashernandsz](https://github.com/lucashernandsz/Qualidade-do-sono)) | Análise exploratória com Matplotlib/Seaborn, feature engineering com Pandas e modelo Random Forest avaliado por RMSE e R². |
+| [🔮 Personality Prediction](https://github.com/lucashernandsz/extroverts_and_introverts) | Pipeline completo de classificação binária: EDA com Spearman, `KNNImputer` por classe para evitar viés, `ColumnTransformer + Pipeline` e `RandomizedSearchCV`. **96,79% de acurácia (CV 5-fold).** |
+| [₿ Bitcoin Pipeline](https://github.com/lucashernandsz/btc-oracle) | ETL de criptomoedas com ingestão via API, armazenamento em PostgreSQL, orquestração com Apache Airflow e dashboard analítico em Power BI. |
+| [😴 Sleep Quality](https://github.com/lucashernandsz/Qualidade-do-sono) | Análise exploratória com Matplotlib/Seaborn, feature engineering com Pandas e modelo Random Forest avaliado por RMSE e R². |
+| [🏠 California House](https://github.com/lucashernandsz/california_house) | Pipeline end-to-end de regressão: EDA com correlações Pearson e visualização geográfica, transformer customizado para feature engineering, `ColumnTransformer + Pipeline` e `RandomizedSearchCV`. **RMSE ~$47.000 no conjunto de teste.** |
 | [🎓 TCC — NLP em Vestibulares](https://github.com/lucashernandsz) | Aplicação de RAG e prompt engineering para identificar padrões em questões de provas. *(em andamento)* |
 
----
 
 ### 🛠️ Stack
 
