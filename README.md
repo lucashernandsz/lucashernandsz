@@ -1,35 +1,27 @@
-<h1>Lucas Hernandez</h1>
-
+# Lucas Hernandez
 <p>
-  Estudante de Sistemas de Informação na Unicamp com foco em <strong>Machine Learning</strong>, <strong>Data Science</strong> e <strong>Engenharia de Dados</strong>.<br/>
-  Desenvolvo pipelines de dados, processos ETL e modelos preditivos.<br/>
-  Aberto a estágios em <strong>AI/ML</strong> e <strong>Engenharia de Dados</strong>.
+  Information Systems student at Unicamp focused on <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Data Engineering</strong>.<br/>
+  I build data pipelines, ETL processes, and predictive models.<br/>
+  Open to internships in <strong>AI/ML</strong> and <strong>Data Engineering</strong>.
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/lucashernandezz">
     <img src="https://img.shields.io/badge/LinkedIn-lucashernandezz-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:l176761@dac.unicamp.br">
-    <img src="https://img.shields.io/badge/Email-contato-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 ---
-
-### 🗂️ Projetos
-
-| Projeto | Descrição |
+### 🗂️ Projects
+| Project | Description |
 |---|---|
-| [🔮 Personality Prediction](https://github.com/lucashernandsz/extroverts_and_introverts) | Pipeline completo de classificação binária: EDA com Spearman, `KNNImputer` por classe para evitar viés, `ColumnTransformer + Pipeline` e `RandomizedSearchCV`. **96,79% de acurácia (CV 5-fold).** |
-| [₿ Bitcoin Pipeline](https://github.com/lucashernandsz/btc-oracle) | ETL de criptomoedas com ingestão via API, armazenamento em PostgreSQL, orquestração com Apache Airflow e dashboard analítico em Power BI. |
-| [😴 Sleep Quality](https://github.com/lucashernandsz/Qualidade-do-sono) | Análise exploratória com Matplotlib/Seaborn, feature engineering com Pandas e modelo Random Forest avaliado por RMSE e R². |
-| [🏠 California House](https://github.com/lucashernandsz/california_house) | Pipeline end-to-end de regressão: EDA com correlações Pearson e visualização geográfica, transformer customizado para feature engineering, `ColumnTransformer + Pipeline` e `RandomizedSearchCV`. **RMSE ~$47.000 no conjunto de teste.** |
-| [🎓 TCC — NLP em Vestibulares](https://github.com/lucashernandsz) | Aplicação de RAG e prompt engineering para identificar padrões em questões de provas. *(em andamento)* |
-
-
+| [🔮 Personality Prediction](https://github.com/lucashernandsz/extroverts_and_introverts) | Complete binary classification pipeline: EDA with Spearman correlation, `KNNImputer` per class to avoid bias, `ColumnTransformer + Pipeline`, and `RandomizedSearchCV`. **96.79% accuracy (5-fold CV).** |
+| [₿ Bitcoin Pipeline](https://github.com/lucashernandsz/btc-oracle) | Cryptocurrency ETL with API-based ingestion, PostgreSQL storage, orchestration with Apache Airflow, and an analytical dashboard in Power BI. |
+| [😴 Sleep Quality](https://github.com/lucashernandsz/Qualidade-do-sono) | Exploratory analysis with Matplotlib/Seaborn, feature engineering with Pandas, and a Random Forest model evaluated using RMSE and R². |
+| [🏠 California House](https://github.com/lucashernandsz/california_house) | End-to-end regression pipeline: EDA with Pearson correlations and geographic visualization, custom transformer for feature engineering, `ColumnTransformer + Pipeline`, and `RandomizedSearchCV`. **RMSE ~$47,000 on the test set.** |
+| [🎓 Thesis — NLP for Entrance Exams](https://github.com/lucashernandsz) | Applying RAG and prompt engineering to identify patterns in exam questions. *(in progress)* |
 ### 🛠️ Stack
-
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
