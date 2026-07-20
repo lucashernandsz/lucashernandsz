@@ -1,4 +1,4 @@
-# Lucas Hernandez
+<h1>Lucas Hernandez</h1>
 <p>
   Information Systems student at Unicamp focused on <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Data Engineering</strong>.<br/>
   I build data pipelines, ETL processes, and predictive models.<br/>
