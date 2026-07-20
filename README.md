@@ -12,15 +12,17 @@
     <img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 ### 🗂️ Projects
 | Project | Description |
 |---|---|
-| [🔮 Personality Prediction](https://github.com/lucashernandsz/extroverts_and_introverts) | Complete binary classification pipeline: EDA with Spearman correlation, `KNNImputer` per class to avoid bias, `ColumnTransformer + Pipeline`, and `RandomizedSearchCV`. **96.79% accuracy (5-fold CV).** |
-| [₿ Bitcoin Pipeline](https://github.com/lucashernandsz/btc-oracle) | Cryptocurrency ETL with API-based ingestion, PostgreSQL storage, orchestration with Apache Airflow, and an analytical dashboard in Power BI. |
-| [😴 Sleep Quality](https://github.com/lucashernandsz/Qualidade-do-sono) | Exploratory analysis with Matplotlib/Seaborn, feature engineering with Pandas, and a Random Forest model evaluated using RMSE and R². |
-| [🏠 California House](https://github.com/lucashernandsz/california_house) | End-to-end regression pipeline: EDA with Pearson correlations and geographic visualization, custom transformer for feature engineering, `ColumnTransformer + Pipeline`, and `RandomizedSearchCV`. **RMSE ~$47,000 on the test set.** |
-| [🎓 Thesis — NLP for Entrance Exams](https://github.com/lucashernandsz) | Applying RAG and prompt engineering to identify patterns in exam questions. *(in progress)* |
+| [🔮 Personality Prediction](https://github.com/lucashernandsz/extroverts_and_introverts) | Complete binary classification pipeline: EDA with Spearman correlation, `KNNImputer` per class to avoid bias, `ColumnTransformer + Pipeline` and `RandomizedSearchCV`. **96.79% accuracy (5-fold CV).** |
+| [₿ Bitcoin Pipeline](https://github.com/lucashernandsz/btc-oracle) | Crypto ETL with API ingestion, PostgreSQL storage, orchestration with Apache Airflow, and analytical dashboard in Power BI. |
+| [😴 Sleep Quality](https://github.com/lucashernandsz/Qualidade-do-sono) | Exploratory analysis with Matplotlib/Seaborn, feature engineering with Pandas, and Random Forest model evaluated by RMSE and R². |
+| [🏠 California House](https://github.com/lucashernandsz/california_house) | End-to-end regression pipeline: EDA with Pearson correlations and geographic visualization, custom transformer for feature engineering, `ColumnTransformer + Pipeline` and `RandomizedSearchCV`. **RMSE ~$47,000 on test set.** |
+| [🎓 TCC — NLP in Entrance Exams](https://github.com/lucashernandsz) | Applying RAG and prompt engineering to identify patterns in exam questions. *(in progress)* |
 ### 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?style=flat&logo=scikit-learn&logoColor=white)
