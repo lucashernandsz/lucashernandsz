@@ -1,7 +1,9 @@
 <h1>Lucas Hernandez</h1>
+<h2>AI Builder / AI Engineer</h2>
 <p>
-  Information Systems student at Unicamp focused on <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Data Engineering</strong>.<br/>
-  I build data pipelines, ETL processes, and predictive models.<br/>
+  I'm building projects <strong>100% with AI</strong>: I define the product, guide implementation, and validate the results.<br/>
+  Information Systems student at Unicamp with a background in <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Data Engineering</strong>.<br/>
+  My work also includes data pipelines, ETL processes, and predictive models.<br/>
   Open to internships in <strong>AI/ML</strong> and <strong>Data Engineering</strong>.
 </p>
 <p align="center">
@@ -14,6 +16,20 @@
 </p>
 
 ---
+
+### 7 projects in 7 days
+
+My current challenge: build **7 projects in 7 days, 100% with AI**.
+
+**Current count: 3/7 projects started.** All three are still in development.
+
+| Project | What I'm building | Status |
+|---|---|---|
+| [Filtro Anywhere](https://github.com/lucashernandsz/filtro-anywhere) | Audio treatment and mastering, focused on turning uploaded audio into a professional-sounding result. | In development; code not yet published. |
+| [Leitura Anywhere](https://github.com/lucashernandsz/leitura-anywhere) | A personal EPUB library and reader built with Flutter, with local storage, reading preferences, and book discovery. | In development; code published. |
+| [Anima Everywhere](https://github.com/lucashernandsz/anima-everywhere) | Local YouTube video clipping from JSON timestamps with Node.js and FFmpeg, plus an experimental audio studio. | In development; code published. Animation generation is not implemented yet. |
+
+Count updated on **November 1, 2026**.
 
 ### 🗂️ Projects
 | Project | Description |
